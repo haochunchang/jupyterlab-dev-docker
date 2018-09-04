@@ -1,0 +1,11 @@
+# insert your python libs to install here
+nltk
+pronto
+keras
+gensim
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+wordcloud
